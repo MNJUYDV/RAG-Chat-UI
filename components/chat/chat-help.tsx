@@ -44,7 +44,7 @@ export const ChatHelp: FC<ChatHelpProps> = ({}) => {
 
             <Link
               className="cursor-pointer hover:opacity-50"
-              href="https://github.com/mckaywrigley/chatbot-ui"
+              href="https://github.com/MNJUYDV/chatbot-ui"
               target="_blank"
               rel="noopener noreferrer"
             >
